@@ -2,7 +2,7 @@
 export const testimonialSlider = [
   {
     image: '/t-avt-1.png',
-    name: 'Anne Smith',
+    name: 'Michał Szcczepański',
     position: 'Customer',
     message:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!',
