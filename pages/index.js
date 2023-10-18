@@ -38,7 +38,7 @@ const Home = () => {
             className='max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16'
           >
             I'm just kidding. I'm actually DevOps Freelancer looking for another job.
-            I'm usually having bad sleep routine, sometimes I'm available at 5am and sometimes im going to sleep at 8pm.
+            I'm usually having bad sleep routine. Sometimes I'm doing some Frontend work and other non-specialized tasks.
 
           </motion.p>
           {/* btn */}
