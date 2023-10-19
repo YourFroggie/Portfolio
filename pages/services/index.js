@@ -31,8 +31,7 @@ const Services = () => {
               exit='hidden'
               className='mb-4 max-w-[400px] mx-auto lg:mx-0'
             >
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. A
-              eveniet dignissimos distinctio tempore harum laudantium.
+              Things that I can do for you and things that I've done for others.
             </motion.p>
           </div>
 

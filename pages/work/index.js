@@ -31,8 +31,8 @@ const Work = () => {
               exit='hidden'
               className='mb-4 max-w-[400px] mx-auto lg:mx-0'
             >
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. A
-              eveniet dignissimos distinctio tempore harum laudantium.
+              Websites and projects i did or took part in making them.
+              Not everything would be possible without a good team.
             </motion.p>
           </div>
 
