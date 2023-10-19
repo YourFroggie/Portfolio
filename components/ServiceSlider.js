@@ -24,12 +24,12 @@ export const serviceData = [
   {
     icon: <RxCrop />,
     title: 'Branding',
-    description: 'It creates a connection and fosters a relationship with prospective customers, which ultimately leads to increased sales volume.',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
   },
   {
     icon: <RxPencil2 />,
     title: 'Design',
-    description: 'Good design increases your company`` ` ``s value, boosts sales, and puts your business in a better financial situation.',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
   },
   {
     icon: <RxDesktop />,
