@@ -29,7 +29,7 @@ export const serviceData = [
   {
     icon: <RxPencil2 />,
     title: 'Design',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    description: 'Good design increases your company`` ` ``s value, boosts sales, and puts your business in a better financial situation.',
   },
   {
     icon: <RxDesktop />,
